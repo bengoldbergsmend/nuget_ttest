@@ -1,0 +1,5 @@
+C:\Users\BenGoldberg\Documents\GitHub\Nuget Test\ScaNugetTestProject\obj\Debug\net8.0\ScaNugetTestProject.csproj.AssemblyReference.cache
+C:\Users\BenGoldberg\Documents\GitHub\Nuget Test\ScaNugetTestProject\obj\Debug\net8.0\ScaNugetTestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BenGoldberg\Documents\GitHub\Nuget Test\ScaNugetTestProject\obj\Debug\net8.0\ScaNugetTestProject.AssemblyInfoInputs.cache
+C:\Users\BenGoldberg\Documents\GitHub\Nuget Test\ScaNugetTestProject\obj\Debug\net8.0\ScaNugetTestProject.AssemblyInfo.cs
+C:\Users\BenGoldberg\Documents\GitHub\Nuget Test\ScaNugetTestProject\obj\Debug\net8.0\ScaNugetTestProject.csproj.CoreCompileInputs.cache
